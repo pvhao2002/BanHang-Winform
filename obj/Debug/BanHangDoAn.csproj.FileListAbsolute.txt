@@ -1,0 +1,14 @@
+D:\workspace\BanHangDoAn\bin\Debug\BanHangDoAn.exe.config
+D:\workspace\BanHangDoAn\bin\Debug\BanHangDoAn.exe
+D:\workspace\BanHangDoAn\bin\Debug\BanHangDoAn.pdb
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.csproj.AssemblyReference.cache
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.csproj.SuggestedBindingRedirects.cache
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.frmLogin.resources
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.Properties.Resources.resources
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.csproj.GenerateResource.cache
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.csproj.CoreCompileInputs.cache
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.exe
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.pdb
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.frmMain.resources
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.frmOrder.resources
+D:\workspace\BanHangDoAn\obj\Debug\BanHangDoAn.frmDoanhThu.resources
